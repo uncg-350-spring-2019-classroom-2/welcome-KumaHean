@@ -1,2 +1,2 @@
 Hello everybody!
-[Image of Yaktocat](octocat.png)
+![Image of Yaktocat](octocat.png)
